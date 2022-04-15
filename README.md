@@ -2,7 +2,7 @@
 
 ### Sub-Módulos
 
-- [Receitas](dio-introducao-git-github-livro-receita)
+- [Receitas](https://github.com/reneesalles/dio-introducao-git-github-livro-receitas/blob/587d6f80345679a9a805202482182bf68f25e372)
   
 ### Links Úteis
 
